@@ -5,4 +5,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=X3n0nP0w3r3d&layout=donut&theme=github_dark_dimmed&locale=ja)](https://github.com/X3n0nP0w3r3d)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=X3n0nP0w3r3d&repo=AoC_solutions&theme=github_dark_dimmed)](https://github.com/X3n0nP0w3r3d/AoC_solutions)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=X3n0nP0w3r3d&repo=InputOUtput&theme=github_dark_dimmed)](https://github.com/X3n0nP0w3r3d/InputOutput)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=X3n0nP0w3r3d&repo=x3n0n-mixins&theme=github_dark_dimmed)](https://github.com/X3n0nP0w3r3d/x3n0n-mixins)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=X3n0nP0w3r3d&repo=InputOutput&theme=github_dark_dimmed)](https://github.com/X3n0nP0w3r3d/InputOutput)
